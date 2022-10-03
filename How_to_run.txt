@@ -1,0 +1,5 @@
+Open the terminal and do the following
+Step 1 : run ./run_script
+Step 2 : run ./run_me
+
+Ready to write operations to perform 

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+cc -c main.c stack.c main_suppl_funs.c num.c list.c
+cc main.o stack.o main_suppl_funs.o num.o list.o -o run_me
+rm main.o stack.o main_suppl_funs.o num.o list.o
+
+
+#to run type 
+#bash run_script
+#./run_me 
+#and then type the numbers to do operation
